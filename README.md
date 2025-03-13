@@ -1,11 +1,16 @@
 📧 Email Spam Classifier 🚀
+
 🔍 Detect Spam Emails with Machine Learning
 This project is a machine learning-based Email Spam Classifier that predicts whether an email is spam or not spam based on its content. Built using Naïve Bayes Classifier, the model efficiently filters out spam emails to ensure a cleaner inbox experience
 
 📌 Features
+
 ✅ User-friendly Interface – Simple web UI built with Flask and Bootstrap
+
 ✅ Accurate Spam Detection – Uses a trained Naïve Bayes model
+
 ✅ Instant Prediction – Get results in real-time
+
 ✅ GIF Feedback – Displays an animated GIF for spam and non-spam emails
 
 🛠️ Tech Stack
@@ -15,10 +20,13 @@ Machine Learning Model: Naïve Bayes Classifier (Scikit-Learn)
 Dataset: Trained on emails.csv containing spam and non-spam emails
 🎯 How It Works?
 1️⃣ Enter an email message in the input box
+
 2️⃣ Click on the "Submit" button
+
 3️⃣ The model analyzes the text and predicts:
      🟥 Spam Mail → Displays a warning with a spam GIF
      ✅ Not Spam Mail → Displays a safe message with a GIF
+     
 4️⃣ Click "Go Back" to classify another email
 
 ⚙️ Installation & Setup
