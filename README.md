@@ -14,6 +14,7 @@ This project is a machine learning-based Email Spam Classifier that predicts whe
 ✅ GIF Feedback – Displays an animated GIF for spam and non-spam emails
 
 🛠️ Tech Stack
+Classifier:Navie Bayes(Best for Text Classification)
 Frontend: HTML, CSS, Bootstrap
 Backend: Flask (Python)
 Machine Learning Model: Naïve Bayes Classifier (Scikit-Learn)
