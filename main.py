@@ -4,7 +4,7 @@ import pickle
 app = Flask(__name__)
 
 
-pipe = pickle.load(open("Naive_model.pkl","rb"))//Naive bayes 
+pipe = pickle.load(open("Naive_model.pkl","rb"))//Naive bayes classifier
 
 @app.route('/', methods=["GET","POST"])
 def main_function():
