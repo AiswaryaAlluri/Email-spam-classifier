@@ -3,7 +3,7 @@
 🔍 Detect Spam Emails with Machine Learning
 This project is a machine learning-based Email Spam Classifier that predicts whether an email is spam or not spam based on its content. Built using Naïve Bayes Classifier, the model efficiently filters out spam emails to ensure a cleaner inbox experience
 
-📌 Features
+📌 Features:
 
 ✅ User-friendly Interface – Simple web UI built with Flask and Bootstrap
 
